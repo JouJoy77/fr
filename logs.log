@@ -1,0 +1,22 @@
+2023-07-10 05:57:20,196 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-10 05:58:16,572 django.request WARNING  Not Found: /
+2023-07-10 06:00:32,666 django.request WARNING  Not Found: /api/sta
+2023-07-10 06:04:38,725 django.request WARNING  Not Found: /api/v1/client/
+2023-07-10 06:05:12,520 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-10 06:05:20,023 django.request WARNING  Not Found: /api/sta
+2023-07-10 06:07:56,992 django.request WARNING  Not Found: /api/v1/client/
+2023-07-10 06:08:17,035 django.request WARNING  Not Found: /api/v1/client/
+2023-07-10 06:08:40,086 trace        INFO     CLIENT:1 created.
+2023-07-10 06:09:55,185 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-10 06:09:56,394 django.request WARNING  Not Found: /api/sta
+2023-07-10 06:09:57,344 django.request WARNING  Not Found: /api/sta
+2023-07-10 06:10:50,044 django.request WARNING  Not Found: /api/client/post/
+2023-07-10 06:12:23,750 django.request WARNING  Method Not Allowed: /api/client/
+2023-07-10 06:15:01,808 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-10 06:26:42,087 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-10 06:36:09,734 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-10 06:36:35,181 django.utils.autoreload INFO     C:\Progs\sobes\fr\main\views.py changed, reloading.
+2023-07-10 06:36:38,177 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-10 06:36:46,169 django.utils.autoreload INFO     C:\Progs\sobes\fr\main\views.py changed, reloading.
+2023-07-10 06:36:48,992 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-10 03:37:37,504 django.utils.autoreload INFO     Watching for file changes with StatReloader
